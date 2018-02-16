@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 
@@ -105,7 +104,7 @@ matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['team\'s tra
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['vacations','vacaciones'], 'holidays')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['young talent','young talent '], 'young talent')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['beacon accelerator','accelerator'], 'accelerator / beacon program')
-matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['catapult','five digital era skills','digital academy','digital skill','digital skillbuilding','digital academy / skills'], 'catapult / skills / digital academy')
+matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['catapult','digital academy/skills','five digital era skills','digital academy','digital skill','digital skillbuilding','digital academy / skills'], 'catapult / skills / digital academy')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['ditto program','ditto strategy'], 'ditto program / strategy')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['diversity','gender','gender sprint','gender prep','diversity sprint','diversity sprint (prep)','gender sprint prep','gender sprint: stewardship'], 'talent diversity')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['eoyr','end of year retreat - attending'], 'end of year retreat')
@@ -117,7 +116,7 @@ matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['hernan (& l
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['holiday: san pedro & san pablo','holidays (tbd)'], 'holidays')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['inkafarma implementation'], 'ikf implementation')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['inkafarma stewardship'], 'ikf stewardship')
-matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['inspiration & learnings'], 'inspiration & learning')
+matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['inspiration & learnings','inspirations & learnings','inspiration'], 'inspiration & learning')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['intelligent networks','intelligent network','idn (intercorp design network)'], 'innovation network')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['interbank beacon','nando','nando (tone of voice)','beacon interbank'], 'ibk beacon')
 matriz1234['Circle or Task'] =matriz1234['Circle or Task'].replace(['interbank stewardship'], 'ibk stewardship')
@@ -163,7 +162,7 @@ porlabber['total']=porlabber.groupby('realname')['Time %'].transform(sum)
 porlabber['share']=porlabber['Time %']/porlabber['total']
 
 #Cambiamos el nombre de la columna Circle or Task a circle para evitar problemas por capitalización y espacios
-porlabber=porlabber.rename(index=str,columns{"Circle or Task":"circle"})
+porlabber=porlabber.rename(index=str,columns={"Circle or Task":"circle"})
 
 #Eliminamos las columnas que no nos van a servir
 porlabber=porlabber.drop(['Time %','total'],1)
