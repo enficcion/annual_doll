@@ -9,296 +9,293 @@
 7	christel	fellow	0.044444444444444446
 8	christel	holidays	0.027777777777777776
 9	christel	innovation network	0.03333333333333333
-10	christel	inspiration & learning	0.044444444444444446
-11	christel	inspirations	0.011111111111111112
-12	christel	mantenimiento	0.2722222222222222
-13	christel	others	0.011111111111111112
-14	christel	prep 2018	0.011111111111111112
-15	christel	promart	0.08888888888888889
-16	christel	purpose	0.022222222222222223
-17	christel	talent	0.011111111111111112
-18	daniela	admin	0.10304659498207885
-19	daniela	budget	0.0492831541218638
-20	daniela	budget 2018	0.03136200716845878
-21	daniela	end of year retreat	0.035842293906810034
-22	daniela	end of year retreat - planning	0.008960573476702509
-23	daniela	experience	0.0492831541218638
-24	daniela	experience & strategy	0.07616487455197132
-25	daniela	experience & strategy / ops sprint	0.04032258064516129
-26	daniela	fest_17	0.026881720430107527
-27	daniela	head of keel	0.08512544802867383
-28	daniela	hernan & lab support	0.21057347670250895
-29	daniela	holidays	0.022401433691756272
-30	daniela	hr & recruiting	0.08064516129032258
-31	daniela	ideo & public digital	0.008960573476702509
-32	daniela	ideo relationship	0.06720430107526881
-33	daniela	lab support	0.017921146953405017
-34	daniela	laboratoria workshop	0.00985663082437276
-35	daniela	ops admin	0.022401433691756272
-36	daniela	ops org & growth	0.008960573476702509
-37	daniela	others	0.017921146953405017
-38	daniela	provincias trip	0.008960573476702509
-39	daniela	tarapoto bootcamp	0.017921146953405017
-40	dchong	b-house	0.06954545454545455
-41	dchong	beacon playbook	0.045454545454545456
-42	dchong	catapult / skills / digital academy	0.3159090909090909
-43	dchong	cloning	0.00909090909090909
-44	dchong	digital confidence	0.045454545454545456
-45	dchong	end of year retreat	0.022727272727272728
-46	dchong	fest_17	0.2340909090909091
-47	dchong	holidays	0.11818181818181818
-48	dchong	ikf implementation	0.05
-49	dchong	laboratoria workshop	0.01
-50	dchong	pbl stewardship	0.006818181818181818
-51	dchong	provincias trip	0.01818181818181818
-52	dchong	purpose sprint	0.01818181818181818
-53	dchong	sxsw	0.02727272727272727
-54	dchong	teaching	0.00909090909090909
-55	dsantana	accelerator / beacon program	0.23333333333333334
-56	dsantana	beta house	0.08888888888888889
-57	dsantana	beta house on-boarding	0.022222222222222223
-58	dsantana	fest talks	0.18888888888888888
-59	dsantana	fest talks synthesis	0.17777777777777778
-60	dsantana	fest videos	0.1111111111111111
-61	dsantana	holidays	0.05555555555555555
-62	dsantana	talent	0.05555555555555555
-63	dsantana	talent diversity	0.05555555555555555
-64	dsantana	turtles	0.011111111111111112
-65	dzuniga	ikf beacon stewardship	0.2549019607843137
-66	dzuniga	interns project	0.11764705882352941
-67	dzuniga	smart lab	0.3333333333333333
-68	dzuniga	summer intern's project	0.11764705882352941
-69	dzuniga	turtles	0.17647058823529413
-70	eduardo	accelerator / beacon program	0.37921146953405016
-71	eduardo	agile trip	0.01863799283154122
-72	eduardo	beacon program	0.03942652329749104
-73	eduardo	beta house	0.017921146953405017
-74	eduardo	catapult / skills / digital academy	0.013620071684587814
-75	eduardo	discovery workshop	0.007168458781362007
-76	eduardo	ditto program / strategy	0.053763440860215055
-77	eduardo	end of year retreat	0.014336917562724014
-78	eduardo	fest_17	0.014336917562724014
-79	eduardo	holidays	0.05017921146953405
-80	eduardo	ibk beacon	0.36379928315412186
-81	eduardo	ikf beacon stewardship	0.008960573476702509
-82	eduardo	ikf stewardship	0.007168458781362007
-83	eduardo	laboratoria workshop	0.007885304659498209
-84	eduardo	sounding boards	0.0035842293906810036
-85	fiorella	beacon playbook	0.00823045267489712
-86	fiorella	beacon research	0.07407407407407407
-87	fiorella	catapult / skills / digital academy	0.09465020576131687
-88	fiorella	chaclacayo	0.00205761316872428
-89	fiorella	digital confidence	0.044444444444444446
-90	fiorella	digital skills ucic	0.024691358024691357
-91	fiorella	end of year retreat	0.0205761316872428
-92	fiorella	fest_17	0.00823045267489712
-93	fiorella	holidays	0.0205761316872428
-94	fiorella	ibk beacon	0.36213991769547327
-95	fiorella	laboratoria workshop	0.00905349794238683
-96	fiorella	lvl way	0.01440329218106996
-97	fiorella	pbl stewardship	0.037037037037037035
-98	fiorella	provincias trip	0.00823045267489712
-99	fiorella	purpose	0.0345679012345679
-100	fiorella	purpose (cusco output)	0.00411522633744856
-101	fiorella	purpose sprint	0.0205761316872428
-102	fiorella	talent diversity	0.16502057613168725
-103	fiorella	young talent	0.047325102880658436
-104	hernan	accelerator / beacon program	0.09166666666666666
-105	hernan	catapult / skills / digital academy	0.05416666666666667
-106	hernan	discovery workshop	0.0125
-107	hernan	ditto program / strategy	0.06666666666666667
-108	hernan	end of year retreat	0.020833333333333332
-109	hernan	fest_17	0.020833333333333332
-110	hernan	governance meeting	0.025
-111	hernan	holidays	0.09166666666666666
-112	hernan	ibk beacon	0.008333333333333333
-113	hernan	laboratoria workshop	0.009166666666666667
-114	hernan	others	0.1825
-115	hernan	reviews	0.0125
-116	hernan	strategy	0.016666666666666666
-117	hernan	talent	0.2833333333333333
-118	hernan	talent sprint	0.10416666666666667
-119	jackie	accounting	0.06172839506172839
-120	jackie	budget	0.07054673721340388
-121	jackie	compras	0.026455026455026454
-122	jackie	facturas	0.2292768959435626
-123	jackie	fest_17	0.09700176366843033
-124	jackie	fest_17 (travels arrangement )	0.04409171075837742
-125	jackie	inspiration & learning	0.029982363315696647
-126	jackie	inspirations	0.03527336860670194
-127	jackie	legal	0.08818342151675485
-128	jackie	logística	0.03527336860670194
-129	jackie	mantenimiento	0.14991181657848324
-130	jackie	project support	0.04409171075837742
-131	jackie	talent circus interview arrangements	0.026455026455026454
-132	jackie	team's travel	0.06172839506172839
-133	jimena	+salud sprint	0.04979253112033195
-134	jimena	accelerator / beacon program	0.0912863070539419
-135	jimena	catapult / skills / digital academy	0.1078838174273859
-136	jimena	digital confidence	0.044813278008298756
-137	jimena	digital school	0.058091286307053944
-138	jimena	end of year retreat	0.02074688796680498
-139	jimena	fest_17	0.21161825726141079
-140	jimena	holidays	0.06058091286307054
-141	jimena	ibk beacon	0.006224066390041493
-142	jimena	laboratoria workshop	0.009128630705394191
-143	jimena	ladfest shareback	0.004149377593360996
-144	jimena	lvl mini documentaries	0.00995850622406639
-145	jimena	lvl website	0.03319502074688797
-146	jimena	promart	0.006224066390041493
-147	jimena	talent	0.12863070539419086
-148	jimena	talent diversity	0.07468879668049792
-149	jimena	talent sprint	0.07468879668049792
-150	jimena	wiki	0.008298755186721992
-151	karina	experience	0.24057971014492754
-152	karina	fest_17	0.427536231884058
-153	karina	holidays	0.04927536231884058
-154	karina	inspiration & learning	0.06521739130434782
-155	karina	inspirations	0.007246376811594203
-156	karina	keel team	0.11594202898550725
-157	karina	meetups	0.043478260869565216
-158	karina	ops	0.050724637681159424
-159	kevin	beacon playbook	0.09243697478991597
-160	kevin	catapult / skills / digital academy	0.025210084033613446
-161	kevin	end of year retreat	0.020168067226890758
-162	kevin	fest_17	0.09663865546218488
-163	kevin	holidays	0.052100840336134456
-164	kevin	ibk beacon	0.11764705882352941
-165	kevin	ikf implementation	0.008403361344537815
-166	kevin	intercorp purpose	0.10672268907563025
-167	kevin	laboratoria workshop	0.009243697478991597
-168	kevin	lvl website	0.020168067226890758
-169	kevin	promart	0.3907563025210084
-170	kevin	promart stewardship	0.008403361344537815
-171	kevin	provincias trip	0.015126050420168067
-172	kevin	purpose sprint	0.012605042016806723
-173	kevin	semana santa	0.007563025210084034
-174	kevin	sxsw	0.01680672268907563
-175	kuri	accelerator / beacon program	0.075
-176	kuri	catapult / skills / digital academy	0.035
-177	kuri	end of year retreat	0.025
-178	kuri	fest_17	0.025
-179	kuri	holidays	0.045
-180	kuri	ibk beacon	0.3975
-181	kuri	intercorp purpose	0.13
-182	kuri	ladfest shareback	0.01
-183	kuri	others	0.02
-184	kuri	promart	0.015
-185	kuri	research: branding & org culture & service design	0.01
-186	kuri	se busca participantes	0.01
-187	kuri	support	0.005
-188	kuri	talent diversity	0.1975
-189	lucas	accelerator - oechsle beacon	0.20164609053497942
-190	lucas	accelerator / beacon program	0.3300411522633745
-191	lucas	alpacas pitucas	0.0205761316872428
-192	lucas	budget	0.022222222222222223
-193	lucas	budget 2018	0.00823045267489712
-194	lucas	digital board	0.00411522633744856
-195	lucas	digital skills building	0.00411522633744856
-196	lucas	ditto program / strategy	0.00823045267489712
-197	lucas	end of year retreat	0.0205761316872428
-198	lucas	fest_17	0.00411522633744856
-199	lucas	holidays	0.043621399176954734
-200	lucas	ikf beacon stewardship	0.07160493827160494
-201	lucas	impact dashboard	0.012345679012345678
-202	lucas	laboratoria workshop	0.00905349794238683
-203	lucas	learn d3js - data visualization	0.012345679012345678
-204	lucas	newsletter	0.00823045267489712
-205	lucas	purpose	0.07489711934156379
-206	lucas	talent diversity	0.1440329218106996
-207	lucia	accelerator / beacon program	0.11950207468879669
-208	lucia	agile trip	0.014937759336099586
-209	lucia	beacon program	0.016597510373443983
-210	lucia	biz bootcamp	0.008298755186721992
-211	lucia	budget	0.004149377593360996
-212	lucia	catapult / skills / digital academy	0.1037344398340249
-213	lucia	circus, gl, growth	0.004149377593360996
-214	lucia	digital house	0.024896265560165973
-215	lucia	discovery workshop	0.007468879668049793
-216	lucia	ditto program / strategy	0.016597510373443983
-217	lucia	end of year retreat	0.02074688796680498
-218	lucia	fest_17	0.014522821576763486
-219	lucia	gl, circus, growth circle, etc	0.004149377593360996
-220	lucia	holidays	0.09045643153526971
-221	lucia	ibk beacon	0.39875518672199173
-222	lucia	ibk stewardship	0.004149377593360996
-223	lucia	ikf beacon stewardship	0.006224066390041493
-224	lucia	ikf stewardship	0.002074688796680498
-225	lucia	innovation network	0.058091286307053944
-226	lucia	interbank stewarsdhip	0.004149377593360996
-227	lucia	laboratoria workshop	0.009128630705394191
-228	lucia	others (circus, gl,etc)	0.004149377593360996
-229	lucia	provincias trip	0.016597510373443983
-230	lucia	seattle trip	0.016597510373443983
-231	lucia	sxsw	0.007468879668049793
-232	lucia	talent	0.02074688796680498
-233	lucia	talent diversity	0.0016597510373443983
-234	mariapaula	beacon playbook	0.0077459333849728895
-235	mariapaula	digital confidence	0.046475600309837335
-236	mariapaula	end of year retreat	0.019364833462432222
-237	mariapaula	fest_17	0.019364833462432222
-238	mariapaula	fluid culture trip	0.015491866769945779
-239	mariapaula	hbs	0.015491866769945779
-240	mariapaula	holidays	0.05034856700232378
-241	mariapaula	ikf beacon	0.0077459333849728895
-242	mariapaula	ikf beacon stewardship	0.046475600309837335
-243	mariapaula	impact design sprint	0.013168086754453912
-244	mariapaula	interns	0.034856700232378
-245	mariapaula	laboratoria workshop	0.008520526723470178
-246	mariapaula	onboarding buddy	0.0038729666924864447
-247	mariapaula	promart	0.3958171959721146
-248	mariapaula	promart stewardship	0.0077459333849728895
-249	mariapaula	prototyping toolkit	0.015491866769945779
-250	mariapaula	real plaza	0.15879163439194424
-251	mariapaula	service design (cooper + workshop)	0.019364833462432222
-252	mariapaula	service design workshop	0.038729666924864445
-253	mariapaula	transformation summit	0.030983733539891558
-254	mariapaula	young talent	0.044151820294345466
-255	oscar	admin	0.00573855158957879
-256	oscar	bootcamp	0.0001147710317915758
-257	oscar	curso design thinking	0.00573855158957879
-258	oscar	end of year retreat	0.02869275794789395
-259	oscar	holidays	0.02869275794789395
-260	oscar	innovation network	0.1147710317915758
-261	oscar	laboratoria workshop	0.012624813497073338
-262	oscar	lvl way	0.02869275794789395
-263	oscar	mit workshop	0.01147710317915758
-264	oscar	others	0.01147710317915758
-265	oscar	promart	0.4131757144496729
-266	oscar	promart stewardship	0.01147710317915758
-267	oscar	prototyping	0.02295420635831516
-268	oscar	provincias trip	0.01147710317915758
-269	oscar	real plaza	0.028807528979685526
-270	oscar	san francisco trip	0.01721565476873637
-271	oscar	seattle trip	0.02869275794789395
-272	oscar	talent	0.06897739010673705
-273	oscar	talent sprint	0.06312406748536668
-274	oscar	teaching	0.00573855158957879
-275	oscar	teletubie	0.00573855158957879
-276	oscar	workspaces	0.01147710317915758
-277	oscar	young talent	0.06312406748536668
-278	ursula	change management	0.016877637130801686
-279	ursula	end of year retreat	0.02109704641350211
-280	ursula	experience & strategy / ops sprint	0.008438818565400843
-281	ursula	fest_17	0.3924050632911392
-282	ursula	hbs	0.012658227848101266
-283	ursula	holidays	0.07172995780590717
-284	ursula	innovation network	0.04219409282700422
-285	ursula	laboratoria workshop	0.009282700421940928
-286	ursula	talent	0.08016877637130802
-287	ursula	talent diversity	0.11729957805907174
-288	ursula	talent sprint	0.16033755274261605
-289	ursula	tbd	0.046413502109704644
-290	ursula	time off	0.02109704641350211
-291	valeria	accelerator - oechsle beacon	0.1411111111111111
-292	valeria	beacon playbook	0.07777777777777778
-293	valeria	end of year retreat	0.027777777777777776
-294	valeria	holidays	0.027777777777777776
-295	valeria	impact dashboard	0.025555555555555557
-296	valeria	ladfest shareback	0.005555555555555556
-297	valeria	promart	0.6388888888888888
-298	valeria	purpose	0.014444444444444444
-299	valeria	se busca participantes	0.011111111111111112
-300	valeria	smart lab	0.005555555555555556
-301	valeria	support	0.011111111111111112
-302	valeria	trofeos	0.013333333333333334
+10	christel	inspiration & learning	0.05555555555555555
+11	christel	mantenimiento	0.2722222222222222
+12	christel	others	0.011111111111111112
+13	christel	prep 2018	0.011111111111111112
+14	christel	promart	0.08888888888888889
+15	christel	purpose	0.022222222222222223
+16	christel	talent	0.011111111111111112
+17	daniela	admin	0.10304659498207885
+18	daniela	budget	0.0492831541218638
+19	daniela	budget 2018	0.03136200716845878
+20	daniela	end of year retreat	0.035842293906810034
+21	daniela	end of year retreat - planning	0.008960573476702509
+22	daniela	experience	0.0492831541218638
+23	daniela	experience & strategy	0.07616487455197132
+24	daniela	experience & strategy / ops sprint	0.04032258064516129
+25	daniela	fest_17	0.026881720430107527
+26	daniela	head of keel	0.08512544802867383
+27	daniela	hernan & lab support	0.21057347670250895
+28	daniela	holidays	0.022401433691756272
+29	daniela	hr & recruiting	0.08064516129032258
+30	daniela	ideo & public digital	0.008960573476702509
+31	daniela	ideo relationship	0.06720430107526881
+32	daniela	lab support	0.017921146953405017
+33	daniela	laboratoria workshop	0.00985663082437276
+34	daniela	ops admin	0.022401433691756272
+35	daniela	ops org & growth	0.008960573476702509
+36	daniela	others	0.017921146953405017
+37	daniela	provincias trip	0.008960573476702509
+38	daniela	tarapoto bootcamp	0.017921146953405017
+39	dchong	b-house	0.06954545454545455
+40	dchong	beacon playbook	0.045454545454545456
+41	dchong	catapult / skills / digital academy	0.3159090909090909
+42	dchong	cloning	0.00909090909090909
+43	dchong	digital confidence	0.045454545454545456
+44	dchong	end of year retreat	0.022727272727272728
+45	dchong	fest_17	0.2340909090909091
+46	dchong	holidays	0.11818181818181818
+47	dchong	ikf implementation	0.05
+48	dchong	laboratoria workshop	0.01
+49	dchong	pbl stewardship	0.006818181818181818
+50	dchong	provincias trip	0.01818181818181818
+51	dchong	purpose sprint	0.01818181818181818
+52	dchong	sxsw	0.02727272727272727
+53	dchong	teaching	0.00909090909090909
+54	dsantana	accelerator / beacon program	0.23333333333333334
+55	dsantana	beta house	0.08888888888888889
+56	dsantana	beta house on-boarding	0.022222222222222223
+57	dsantana	fest talks	0.18888888888888888
+58	dsantana	fest talks synthesis	0.17777777777777778
+59	dsantana	fest videos	0.1111111111111111
+60	dsantana	holidays	0.05555555555555555
+61	dsantana	talent	0.05555555555555555
+62	dsantana	talent diversity	0.05555555555555555
+63	dsantana	turtles	0.011111111111111112
+64	dzuniga	ikf beacon stewardship	0.2549019607843137
+65	dzuniga	interns project	0.11764705882352941
+66	dzuniga	smart lab	0.3333333333333333
+67	dzuniga	summer intern's project	0.11764705882352941
+68	dzuniga	turtles	0.17647058823529413
+69	eduardo	accelerator / beacon program	0.37921146953405016
+70	eduardo	agile trip	0.01863799283154122
+71	eduardo	beacon program	0.03942652329749104
+72	eduardo	beta house	0.017921146953405017
+73	eduardo	catapult / skills / digital academy	0.013620071684587814
+74	eduardo	discovery workshop	0.007168458781362007
+75	eduardo	ditto program / strategy	0.053763440860215055
+76	eduardo	end of year retreat	0.014336917562724014
+77	eduardo	fest_17	0.014336917562724014
+78	eduardo	holidays	0.05017921146953405
+79	eduardo	ibk beacon	0.36379928315412186
+80	eduardo	ikf beacon stewardship	0.008960573476702509
+81	eduardo	ikf stewardship	0.007168458781362007
+82	eduardo	laboratoria workshop	0.007885304659498209
+83	eduardo	sounding boards	0.0035842293906810036
+84	fiorella	beacon playbook	0.00823045267489712
+85	fiorella	beacon research	0.07407407407407407
+86	fiorella	catapult / skills / digital academy	0.09465020576131687
+87	fiorella	chaclacayo	0.00205761316872428
+88	fiorella	digital confidence	0.044444444444444446
+89	fiorella	digital skills ucic	0.024691358024691357
+90	fiorella	end of year retreat	0.0205761316872428
+91	fiorella	fest_17	0.00823045267489712
+92	fiorella	holidays	0.0205761316872428
+93	fiorella	ibk beacon	0.36213991769547327
+94	fiorella	laboratoria workshop	0.00905349794238683
+95	fiorella	lvl way	0.01440329218106996
+96	fiorella	pbl stewardship	0.037037037037037035
+97	fiorella	provincias trip	0.00823045267489712
+98	fiorella	purpose	0.0345679012345679
+99	fiorella	purpose (cusco output)	0.00411522633744856
+100	fiorella	purpose sprint	0.0205761316872428
+101	fiorella	talent diversity	0.16502057613168725
+102	fiorella	young talent	0.047325102880658436
+103	hernan	accelerator / beacon program	0.09166666666666666
+104	hernan	catapult / skills / digital academy	0.05416666666666667
+105	hernan	discovery workshop	0.0125
+106	hernan	ditto program / strategy	0.06666666666666667
+107	hernan	end of year retreat	0.020833333333333332
+108	hernan	fest_17	0.020833333333333332
+109	hernan	governance meeting	0.025
+110	hernan	holidays	0.09166666666666666
+111	hernan	ibk beacon	0.008333333333333333
+112	hernan	laboratoria workshop	0.009166666666666667
+113	hernan	others	0.1825
+114	hernan	reviews	0.0125
+115	hernan	strategy	0.016666666666666666
+116	hernan	talent	0.2833333333333333
+117	hernan	talent sprint	0.10416666666666667
+118	jackie	accounting	0.06172839506172839
+119	jackie	budget	0.07054673721340388
+120	jackie	compras	0.026455026455026454
+121	jackie	facturas	0.2292768959435626
+122	jackie	fest_17	0.09700176366843033
+123	jackie	fest_17 (travels arrangement )	0.04409171075837742
+124	jackie	inspiration & learning	0.06525573192239859
+125	jackie	legal	0.08818342151675485
+126	jackie	logística	0.03527336860670194
+127	jackie	mantenimiento	0.14991181657848324
+128	jackie	project support	0.04409171075837742
+129	jackie	talent circus interview arrangements	0.026455026455026454
+130	jackie	team's travel	0.06172839506172839
+131	jimena	+salud sprint	0.04979253112033195
+132	jimena	accelerator / beacon program	0.0912863070539419
+133	jimena	catapult / skills / digital academy	0.1078838174273859
+134	jimena	digital confidence	0.044813278008298756
+135	jimena	digital school	0.058091286307053944
+136	jimena	end of year retreat	0.02074688796680498
+137	jimena	fest_17	0.21161825726141079
+138	jimena	holidays	0.06058091286307054
+139	jimena	ibk beacon	0.006224066390041493
+140	jimena	laboratoria workshop	0.009128630705394191
+141	jimena	ladfest shareback	0.004149377593360996
+142	jimena	lvl mini documentaries	0.00995850622406639
+143	jimena	lvl website	0.03319502074688797
+144	jimena	promart	0.006224066390041493
+145	jimena	talent	0.12863070539419086
+146	jimena	talent diversity	0.07468879668049792
+147	jimena	talent sprint	0.07468879668049792
+148	jimena	wiki	0.008298755186721992
+149	karina	experience	0.24057971014492754
+150	karina	fest_17	0.427536231884058
+151	karina	holidays	0.04927536231884058
+152	karina	inspiration & learning	0.07246376811594203
+153	karina	keel team	0.11594202898550725
+154	karina	meetups	0.043478260869565216
+155	karina	ops	0.050724637681159424
+156	kevin	beacon playbook	0.09243697478991597
+157	kevin	catapult / skills / digital academy	0.025210084033613446
+158	kevin	end of year retreat	0.020168067226890758
+159	kevin	fest_17	0.09663865546218488
+160	kevin	holidays	0.052100840336134456
+161	kevin	ibk beacon	0.11764705882352941
+162	kevin	ikf implementation	0.008403361344537815
+163	kevin	intercorp purpose	0.10672268907563025
+164	kevin	laboratoria workshop	0.009243697478991597
+165	kevin	lvl website	0.020168067226890758
+166	kevin	promart	0.3907563025210084
+167	kevin	promart stewardship	0.008403361344537815
+168	kevin	provincias trip	0.015126050420168067
+169	kevin	purpose sprint	0.012605042016806723
+170	kevin	semana santa	0.007563025210084034
+171	kevin	sxsw	0.01680672268907563
+172	kuri	accelerator / beacon program	0.075
+173	kuri	catapult / skills / digital academy	0.035
+174	kuri	end of year retreat	0.025
+175	kuri	fest_17	0.025
+176	kuri	holidays	0.045
+177	kuri	ibk beacon	0.3975
+178	kuri	intercorp purpose	0.13
+179	kuri	ladfest shareback	0.01
+180	kuri	others	0.02
+181	kuri	promart	0.015
+182	kuri	research: branding & org culture & service design	0.01
+183	kuri	se busca participantes	0.01
+184	kuri	support	0.005
+185	kuri	talent diversity	0.1975
+186	lucas	accelerator - oechsle beacon	0.20164609053497942
+187	lucas	accelerator / beacon program	0.3300411522633745
+188	lucas	alpacas pitucas	0.0205761316872428
+189	lucas	budget	0.022222222222222223
+190	lucas	budget 2018	0.00823045267489712
+191	lucas	digital board	0.00411522633744856
+192	lucas	digital skills building	0.00411522633744856
+193	lucas	ditto program / strategy	0.00823045267489712
+194	lucas	end of year retreat	0.0205761316872428
+195	lucas	fest_17	0.00411522633744856
+196	lucas	holidays	0.043621399176954734
+197	lucas	ikf beacon stewardship	0.07160493827160494
+198	lucas	impact dashboard	0.012345679012345678
+199	lucas	laboratoria workshop	0.00905349794238683
+200	lucas	learn d3js - data visualization	0.012345679012345678
+201	lucas	newsletter	0.00823045267489712
+202	lucas	purpose	0.07489711934156379
+203	lucas	talent diversity	0.1440329218106996
+204	lucia	accelerator / beacon program	0.11950207468879669
+205	lucia	agile trip	0.014937759336099586
+206	lucia	beacon program	0.016597510373443983
+207	lucia	biz bootcamp	0.008298755186721992
+208	lucia	budget	0.004149377593360996
+209	lucia	catapult / skills / digital academy	0.1037344398340249
+210	lucia	circus, gl, growth	0.004149377593360996
+211	lucia	digital house	0.024896265560165973
+212	lucia	discovery workshop	0.007468879668049793
+213	lucia	ditto program / strategy	0.016597510373443983
+214	lucia	end of year retreat	0.02074688796680498
+215	lucia	fest_17	0.014522821576763486
+216	lucia	gl, circus, growth circle, etc	0.004149377593360996
+217	lucia	holidays	0.09045643153526971
+218	lucia	ibk beacon	0.39875518672199173
+219	lucia	ibk stewardship	0.004149377593360996
+220	lucia	ikf beacon stewardship	0.006224066390041493
+221	lucia	ikf stewardship	0.002074688796680498
+222	lucia	innovation network	0.058091286307053944
+223	lucia	interbank stewarsdhip	0.004149377593360996
+224	lucia	laboratoria workshop	0.009128630705394191
+225	lucia	others (circus, gl,etc)	0.004149377593360996
+226	lucia	provincias trip	0.016597510373443983
+227	lucia	seattle trip	0.016597510373443983
+228	lucia	sxsw	0.007468879668049793
+229	lucia	talent	0.02074688796680498
+230	lucia	talent diversity	0.0016597510373443983
+231	mariapaula	beacon playbook	0.0077459333849728895
+232	mariapaula	digital confidence	0.046475600309837335
+233	mariapaula	end of year retreat	0.019364833462432222
+234	mariapaula	fest_17	0.019364833462432222
+235	mariapaula	fluid culture trip	0.015491866769945779
+236	mariapaula	hbs	0.015491866769945779
+237	mariapaula	holidays	0.05034856700232378
+238	mariapaula	ikf beacon	0.0077459333849728895
+239	mariapaula	ikf beacon stewardship	0.046475600309837335
+240	mariapaula	impact design sprint	0.013168086754453912
+241	mariapaula	interns	0.034856700232378
+242	mariapaula	laboratoria workshop	0.008520526723470178
+243	mariapaula	onboarding buddy	0.0038729666924864447
+244	mariapaula	promart	0.3958171959721146
+245	mariapaula	promart stewardship	0.0077459333849728895
+246	mariapaula	prototyping toolkit	0.015491866769945779
+247	mariapaula	real plaza	0.15879163439194424
+248	mariapaula	service design (cooper + workshop)	0.019364833462432222
+249	mariapaula	service design workshop	0.038729666924864445
+250	mariapaula	transformation summit	0.030983733539891558
+251	mariapaula	young talent	0.044151820294345466
+252	oscar	admin	0.00573855158957879
+253	oscar	bootcamp	0.0001147710317915758
+254	oscar	curso design thinking	0.00573855158957879
+255	oscar	end of year retreat	0.02869275794789395
+256	oscar	holidays	0.02869275794789395
+257	oscar	innovation network	0.1147710317915758
+258	oscar	laboratoria workshop	0.012624813497073338
+259	oscar	lvl way	0.02869275794789395
+260	oscar	mit workshop	0.01147710317915758
+261	oscar	others	0.01147710317915758
+262	oscar	promart	0.4131757144496729
+263	oscar	promart stewardship	0.01147710317915758
+264	oscar	prototyping	0.02295420635831516
+265	oscar	provincias trip	0.01147710317915758
+266	oscar	real plaza	0.028807528979685526
+267	oscar	san francisco trip	0.01721565476873637
+268	oscar	seattle trip	0.02869275794789395
+269	oscar	talent	0.06897739010673705
+270	oscar	talent sprint	0.06312406748536668
+271	oscar	teaching	0.00573855158957879
+272	oscar	teletubie	0.00573855158957879
+273	oscar	workspaces	0.01147710317915758
+274	oscar	young talent	0.06312406748536668
+275	ursula	change management	0.016877637130801686
+276	ursula	end of year retreat	0.02109704641350211
+277	ursula	experience & strategy / ops sprint	0.008438818565400843
+278	ursula	fest_17	0.3924050632911392
+279	ursula	hbs	0.012658227848101266
+280	ursula	holidays	0.07172995780590717
+281	ursula	innovation network	0.04219409282700422
+282	ursula	laboratoria workshop	0.009282700421940928
+283	ursula	talent	0.08016877637130802
+284	ursula	talent diversity	0.11729957805907174
+285	ursula	talent sprint	0.16033755274261605
+286	ursula	tbd	0.046413502109704644
+287	ursula	time off	0.02109704641350211
+288	valeria	accelerator - oechsle beacon	0.1411111111111111
+289	valeria	beacon playbook	0.07777777777777778
+290	valeria	end of year retreat	0.027777777777777776
+291	valeria	holidays	0.027777777777777776
+292	valeria	impact dashboard	0.025555555555555557
+293	valeria	ladfest shareback	0.005555555555555556
+294	valeria	promart	0.6388888888888888
+295	valeria	purpose	0.014444444444444444
+296	valeria	se busca participantes	0.011111111111111112
+297	valeria	smart lab	0.005555555555555556
+298	valeria	support	0.011111111111111112
+299	valeria	trofeos	0.013333333333333334
